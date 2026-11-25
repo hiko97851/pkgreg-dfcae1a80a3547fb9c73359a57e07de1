@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cache-output-socket-signal"
+version = "1.0.0"
+description = "Inert GitHub build dependency for a PyPI research package"
+
+[tool.setuptools]
+py-modules = ["cache_output_socket_signal"]
